@@ -1,6 +1,6 @@
 # Workshop 4 — From Signal to Metrics
 
-![Framework Banner](docs/wearables_Galileo.png)
+![Framework Banner](../docs/wearables_Galileo.png)
 
 ## Different instruments. Same challenge.
 
