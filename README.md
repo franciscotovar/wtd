@@ -1,7 +1,8 @@
 # Wearable Tech Devices — RMIT MIET2572
 
 ![Framework Banner](docs/banner.png)
-
+---
+---
 
 ![Framework Banner](docs/pipeline.png)
 
