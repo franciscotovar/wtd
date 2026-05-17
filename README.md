@@ -160,8 +160,9 @@ The final presentations are intended to be:
 A simple and well-explained result is stronger than a complicated unclear system.
 
 ---
+## Course Coordinator
 
-## Lecturer
+Dr Francisco Tovar
+Biomedical Engineering • CFD • Microfluidics • Translational Systems Engineering • Instrumentation RMIT University — Melbourne, Australia
 
-Dr Francisco Tovar  
-RMIT University
+Adjunct Senior Research Fellow. Department of Diabetes, School of Translational Medicine, Faculty of Medicine Nursing and Health Sciences. Monash University.
